@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Khan.aliza@icloud.com**
 
-- ⚡ Fun fact **I love learning with try hack**
+- ⚡ Fun fact **I love learning with tryhackme.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
